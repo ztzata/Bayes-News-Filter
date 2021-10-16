@@ -3,4 +3,5 @@ This project uses Naive Bayes classifier to compute the probability of "interest
 You don't need training data to train the classifier. It will become more and more accurate as you use.
 
 This project uses PySide6 and QtQuick (QML) to develop. If any of the QML code logic looks not straight forward to you, it could be the alternative way due to a lot of bugs of QtQuick.
+
 You can modify the code to fit any website. Don't waste your time on any news that you are not interested in.
