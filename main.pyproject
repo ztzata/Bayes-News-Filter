@@ -1,0 +1,4 @@
+{
+    "files": ["ResizeBottom.qml","MyWebEngineView.qml","MyTableView.qml","MyDriversModel.py","VSplit.qml","ResizeRight.qml","StatusBar.qml","OptionsPopup.qml","ResizeRightBottom.qml","HSplit.qml","main.py","main.qml","MoveWindowRect.qml","BtnColumn.qml","WindowBtnRow.qml"]
+
+}
