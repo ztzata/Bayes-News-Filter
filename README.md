@@ -1,4 +1,4 @@
-This project uses Naive Bayes classifier to compute the probability of "interesting" and "not interesting" of recent updated news. You can use the built in browser to read the news. When you hit "Like", "No Like" and "Read", the words shown in "Like" and "No Like" and the total number of read news will be recorded.
+This project uses Naive Bayes classifier to compute the probability of "interesting" and "not interesting" of recent updated news. You can use the built-in browser to read the news. When you hit "Like", "No Like" and "Read", the words shown in "Like" and "No Like" and the total number of read news will be recorded.
 
 You don't need training data to train the classifier. It will become more and more accurate as you use.
 
